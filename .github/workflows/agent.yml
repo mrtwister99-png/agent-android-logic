@@ -1,4 +1,4 @@
-name: Loyo Logic Master
+﻿name: Loyo Logic Master
 on:
   schedule:
     - cron: '*/15 * * * *'
